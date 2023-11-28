@@ -28,15 +28,15 @@
     "prepare": "husky install",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "build": "yarn run build:clean && tsc",
+    "build": "npm run build:clean && tsc",
     "build:clean": "trash ./dist",
     "typecheck": "tsc --noEmit",
-    "lint": "yarn run lint:js && yarn run lint:styles",
+    "lint": "npm run lint:js && npm run lint:styles",
     "lint:js": "eslint --ext .js,.jsx,.ts,.tsx .",
     "lint:styles": "stylelint '**/*.{css,scss}' --report-needless-disables",
     "prettier": "prettier '**/*.{js,md,yaml,yml,json}' --config .prettierrc.js",
     "test": "jest",
-    "prepublishOnly": "yarn run build"
+    "prepublishOnly": "npm run build"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.23.3",

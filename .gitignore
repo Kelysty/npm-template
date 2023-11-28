@@ -5,9 +5,6 @@
 # Dependencies
 node_modules
 
-# yarn
-.yarn
-
 # build
 dist
 build
