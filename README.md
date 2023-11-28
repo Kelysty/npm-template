@@ -1,4 +1,4 @@
-# @kelysty/npm-template &middot; [![npm package](https://img.shields.io/npm/v/@kelysty/npm-template)](https://www.npmjs.com/package/@kelysty/npm-template) [![CI](https://img.shields.io/github/actions/workflow/status/kelysty/npm-template/.guthub/workflows/Fci.yml?logo=github&label=CI)](https://github.com/kelysty/npm-template/actions/workflows/ci.yml?query=branch:main) [![storybook](https://img.shields.io/badge/Storybook-deployed-ff4685)](https://preview.kelysty.com/npm-template/)
+# @kelysty/npm-template &middot; [![npm package](https://img.shields.io/npm/v/@kelysty/npm-template)](https://www.npmjs.com/package/@kelysty/npm-template) [![CI](https://img.shields.io/github/actions/workflow/status/kelysty/npm-template/.guthub/workflows/ci.yml?logo=github&label=CI)](https://github.com/kelysty/npm-template/actions/workflows/ci.yml?query=branch:main) [![storybook](https://img.shields.io/badge/Storybook-deployed-ff4685)](https://preview.kelysty.com/npm-template/)
 
 This is a template for a typical `npm package`
 
